@@ -1,4 +1,7 @@
 # cdrcR v0.1.0
 
-* Added a `NEWS.md` file to track changes to the package.
-* Updated the ONS Open Geography Portal API to get administrative boundaries
+* Updated the ONS Open Geography Portal API
+
+# cdrcR v0.1.1
+
+* Updated the ONS Open Geography Portal API to get Output Areas boundaries
